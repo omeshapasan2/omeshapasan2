@@ -5,10 +5,10 @@
 </picture>
 
 # 💫 About Me:
-🔭 I’m currently working on<br> Virtual Try On Project
-🤝 I’m looking for help with<br> AI Model deployment
-🌱 I’m currently learning<br> FLutter
-💬 Ask me about<br> anything
+🔭 I’m currently working on Virtual Try On Project<br> 
+🤝 I’m looking for help with AI Model deployment<br> 
+🌱 I’m currently learning Flutter<br> 
+💬 Ask me about anything<br> 
 
 
 
