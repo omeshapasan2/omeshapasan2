@@ -4,22 +4,12 @@
   <img align="right" src="https://camo.githubusercontent.com/24a2cbaa12decb1777911cfb99bc23971d8a1edbe9ddd08a4a5183edd49d7474/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f70726f6772616d6d696e672d737469636b2d6669677572652d676f696e672d6372617a792d6f6e2d666972652d6a36696934706a75397864746e7362722e676966" width="250px">
 </picture>
 
-**omeshapasan2/omeshapasan2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on<br> Virtual Try On Project
+🤝 I’m looking for help with<br> AI Model deployment
+🌱 I’m currently learning<br> FLutter
+💬 Ask me about<br> anything
+
 
 
 ## 🌐 Socials:
