@@ -7,7 +7,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Virtual Try On Project<br> 
 🤝 I’m looking for help with AI Model deployment<br> 
-🌱 I’m currently learning Flutter<br> 
+🌱 I’m currently learning React<br> 
 💬 Ask me about anything<br> 
 
 
