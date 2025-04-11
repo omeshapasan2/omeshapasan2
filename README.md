@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <picture>
-  ![image](https://github.com/user-attachments/assets/b88b2329-e5d3-41bd-8e48-7072aac6b985)
+  <img align="right" src="https://raw.githubusercontent.com/saadeghi/saadeghi/refs/heads/master/dino.gif" width="250px">
 </picture>
 
 # 💫 About Me:
